@@ -1,1 +1,2 @@
-This is second text2 file
+This is second text2 file.
+Changes made in text2 file
